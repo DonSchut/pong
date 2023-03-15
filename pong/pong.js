@@ -13,7 +13,7 @@ var ball = {
   image: new Image(),
 };
 
-ball.image.src = "https://storied-pasca-bf13a0.netlify.app/rut.png";
+ball.image.src = "https://raw.githubusercontent.com/DonSchut/pong/main/pong/rut.png";
 
 
 // Define the paddles
