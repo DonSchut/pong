@@ -13,7 +13,8 @@ var ball = {
   image: new Image(),
 };
 
-ball.image.src = "rut.png";
+ball.image.src = "https://storied-pasca-bf13a0.netlify.app/rut.png";
+
 
 // Define the paddles
 var paddleHeight = 80;
